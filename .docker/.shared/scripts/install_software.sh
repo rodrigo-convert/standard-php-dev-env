@@ -18,4 +18,5 @@ apt-get update -yqq && apt-get install -yqq \
     vim \
     wget \
     libnss3-tools \
+    ldap-utils \
 ;
